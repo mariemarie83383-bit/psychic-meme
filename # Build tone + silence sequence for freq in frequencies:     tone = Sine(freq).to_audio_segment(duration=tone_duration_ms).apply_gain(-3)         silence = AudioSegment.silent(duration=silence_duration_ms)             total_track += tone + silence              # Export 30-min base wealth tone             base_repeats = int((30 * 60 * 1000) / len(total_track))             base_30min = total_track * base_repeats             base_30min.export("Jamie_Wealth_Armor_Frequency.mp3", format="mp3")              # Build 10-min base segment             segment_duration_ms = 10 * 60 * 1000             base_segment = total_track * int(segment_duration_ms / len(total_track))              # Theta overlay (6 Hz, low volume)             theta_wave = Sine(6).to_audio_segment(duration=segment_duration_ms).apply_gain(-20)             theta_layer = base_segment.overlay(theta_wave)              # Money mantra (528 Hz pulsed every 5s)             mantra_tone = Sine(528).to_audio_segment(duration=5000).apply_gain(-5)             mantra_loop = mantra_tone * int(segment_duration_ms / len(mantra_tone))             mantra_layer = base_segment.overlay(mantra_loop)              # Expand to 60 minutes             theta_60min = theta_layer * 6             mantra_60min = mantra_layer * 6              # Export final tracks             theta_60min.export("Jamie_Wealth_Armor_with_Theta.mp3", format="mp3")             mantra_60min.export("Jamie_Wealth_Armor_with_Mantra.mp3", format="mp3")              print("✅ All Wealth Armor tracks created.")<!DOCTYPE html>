@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Frequency Audio Player</title>
+        <link rel="stylesheet" href="style.css">
+        </head>
+        <body>
+          <h2>Frequency Audio Player</h2>
+            <p>🎶 Play healing tones and encoded tracks here.</p>
+
+              <!-- Example Audio -->
+                <audio controls>
+                    <source src="your-audio-file.mp3" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                          </audio>
+
+                            <a href="index.html">← Back to Portal</a>
+                            </body>
+                            </html>
